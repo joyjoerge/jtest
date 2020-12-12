@@ -1,8 +1,8 @@
-# Person profile
+# Person Profile
 
 ![Profile](profile.png)
 
-My name is Caran D’Arche. I am a pencil, and I was born in Geneva. A few days after my birth, my family moved to `Bangalore`, where I went to school and college. I graduated top of my class from the `Faber-Castell Architecture University`, and interned as draughtsperson at `Kohinoor Hardtmuth`.
+My name is Caran D’Arche. I am a pencil, and I was born in _Geneva_. A few days after my birth, my family moved to `Bangalore`, where I went to school and college. I graduated top of my class from the `Faber-Castell Architecture University`, and interned as draughtsperson at `Kohinoor Hardtmuth`.
 
 ## What do I do?
 
@@ -12,7 +12,7 @@ My professional areas of interest include:
 - sketching
 - designing
 
-I specialise in drawing space-rovers and drone-probes. At my current company, I was instrumental in implementing a Sharp-and-Clear-Lines policy that reduced smudges by 43% and raised designer satisfaction by more than 78 basis points.
+I specialise in **drawing space-rovers** and **drone-probes**. At my current company, I was instrumental in implementing a Sharp-and-Clear-Lines policy that reduced smudges by 43% and raised designer satisfaction by more than 78 basis points.
 
 My employment history is as follows:
 
@@ -30,6 +30,6 @@ I am looking for a role where I can use my special point-and-mark skills to anno
 
 1. mythology
 2. comics
-3. card games.
+3. card games
 
 For more information, see [example.com](https://www.example.com).
