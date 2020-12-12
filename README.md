@@ -9,13 +9,10 @@ At my current company, I was instrumental in implementing a Sharp-and-Clear-Line
 
 My employment history is as follows:
 
-1806 - present: Newell Musgrave LLC
-
-1781 - 1806: Derwent Cumberland Co
-
-1765 - 1781: Staedtler Mars GmbH
-
-1757 - 1765: Dixon Ticonderoga Inc
+- 1806 - present: Newell Musgrave LLC
+- 1781 - 1806: Derwent Cumberland Co
+- 1765 - 1781: Staedtler Mars GmbH
+- 1757 - 1765: Dixon Ticonderoga Inc
 
 # What am I looking for?
 
