@@ -10,7 +10,7 @@ My professional areas of interest include:
 
 - drawing
 - sketching
-- designing. 
+- designing
 
 I specialise in drawing space-rovers and drone-probes. At my current company, I was instrumental in implementing a Sharp-and-Clear-Lines policy that reduced smudges by 43% and raised designer satisfaction by more than 78 basis points.
 
