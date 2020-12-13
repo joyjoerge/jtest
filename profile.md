@@ -22,6 +22,7 @@ My employment history is as follows:
 |1781 - 1806 |Derwent Cumberland Co|
 |1765 - 1781 |Staedtler Mars GmbH|
 |1757 - 1765 |Dixon Ticonderoga Inc
+|1780 - 1790 |Nixon Ticonderoga Inc
 
 
 ## What am I looking for?
