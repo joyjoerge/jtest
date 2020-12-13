@@ -1,6 +1,6 @@
 # My Profile
 
-@@inclde[rofile.md]
+#include "profile.md"
 
 This is a test file for a test pull request.
 
