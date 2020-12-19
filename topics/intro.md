@@ -1,4 +1,9 @@
-# Organic Farming
+---
+layout: template
+title: Introduction to Organic Farming
+---
+
+# {{ page.title }}
 
 Organic farming is a technique, which involves the cultivation of plants and rearing of animals in natural ways. This process involves the use of biological materials, avoiding synthetic substances to maintain soil fertility and ecological balance thereby minimizing pollution and wastage.
 
