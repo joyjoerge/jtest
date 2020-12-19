@@ -2,9 +2,9 @@
 layout: template
 ---
 
-# Organic Farming
+# My Alternate Life
 
-My experience with and perceptions of organic farming
+My experience with organic farming.
 
 -  [About Me](README.md)
 -  [What is Organic Farming](topics/intro.md)
