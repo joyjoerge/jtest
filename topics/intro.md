@@ -21,3 +21,8 @@ The general principles of organic production, include the following:
 - prepare organic products, emphasizing careful processing, and handling methods in order to maintain the organic integrity and vital qualities of the products at all stages of production
 - rely on renewable resources in locally organized agricultural systems
 
+## See also
+
+-  [Benefits of Organic Farming](benefits.md)
+-  [Methods in Organic Farming](methods.md)
+-  [Use of Incecticides](incecticides.md)
