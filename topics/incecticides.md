@@ -10,3 +10,9 @@ Based on the chemical nature, insecticides are classified into two groups:
 - {{ item.name }}
 -- {{ item.definition }}
 {% endfor %}
+
+## See also
+
+-  [What is Organic Farming](intro.md)
+-  [Benefits of Organic Farming](benefits.md)
+-  [Methods in Organic Farming](methods.md)
