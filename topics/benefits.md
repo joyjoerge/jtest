@@ -1,4 +1,6 @@
-# Benefits
+---
+layout: template
+---
 
 # Benefits of Organic Farming
 
