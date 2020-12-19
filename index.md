@@ -4,6 +4,8 @@ layout: template
 
 # My Alternate Life
 
+![](_images/logo.png)
+
 My experience with organic farming.
 
 -  [About Me](README.md)
