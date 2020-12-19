@@ -2,8 +2,7 @@
 layout: template
 ---
 
-# Using Incecticides
-
+# Use of Incecticides
 
 Based on the chemical nature, insecticides are classified into two groups:
 
