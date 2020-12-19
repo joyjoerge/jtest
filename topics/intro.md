@@ -5,8 +5,6 @@ title: Organic Farming
 
 # {{ page.title }}
 
-![](../_images/logo.png)
-
 Organic farming is a technique, which involves the cultivation of plants and rearing of animals in natural ways. This process involves the use of biological materials, avoiding synthetic substances to maintain soil fertility and ecological balance thereby minimizing pollution and wastage.
 
 n other words, organic farming is a farming method that involves growing and nurturing crops without the use of synthetic based fertilizers and pesticides. Also, no genetically modified organisms are permitted.
