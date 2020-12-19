@@ -4,9 +4,9 @@ layout: template
 
 # Organic Farming
 
-Everything about Organic Farming
+My experience with and perceptions of organic farming
 
 -  [About Me](README.md)
 -  [What is Organic Farming](topics/intro.md)
 -  [Benefits](topics/benefits.md)
--  [About Insecticides](topics/incecticides.md)
+-  [Methods](topics/methods.md)
