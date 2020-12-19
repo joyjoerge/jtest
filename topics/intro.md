@@ -13,7 +13,7 @@ n other words, organic farming is a farming method that involves growing and nur
 
 It relies on ecologically balanced agricultural principles like crop rotation, green manure, organic waste, biological pest control, mineral and rock additives.Organic farming makes use of pesticides and fertilizers if they are considered natural and avoids the use of various petrochemical fertilizers and pesticides.
 
-The general principles of organic production, from the Canadian Organic Standards (2006), include the following:
+The general principles of organic production, include the following:
 
 - protect the environment, minimize soil degradation and erosion, decrease pollution, optimize biological productivity and promote a sound state of health
 - maintain long-term soil fertility by optimizing conditions for biological activity within the soil
