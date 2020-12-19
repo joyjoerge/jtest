@@ -8,4 +8,4 @@ Everything about Organic Farming
 
 -  [What is Organic Farming](topics/intro.md)
 -  [Benefits](topics/benefits.md)
--  [Using Insecticides](topics/incecticides.md)
+-  [About Insecticides](topics/incecticides.md)
