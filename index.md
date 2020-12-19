@@ -4,7 +4,7 @@ layout: template
 
 # My Alternate Life
 
-![](_images/logo.png)
+![](_images/logo.jpg)
 
 My experience with organic farming.
 
