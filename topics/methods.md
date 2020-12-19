@@ -19,3 +19,10 @@ Because organic farming is all about the natural way of the farmland, the growth
 ## Domestic animals
 
 An organic farm can be sustained by the presence of domestic animals. Remember that organic farmers use animal waste as natural fertilizers, so their existence in organic farms is highly needed.
+
+
+## See also
+
+-  [What is Organic Farming](intro.md)
+-  [Benefits of Organic Farming](benefits.md)
+-  [Use of Incecticides](incecticides.md)
