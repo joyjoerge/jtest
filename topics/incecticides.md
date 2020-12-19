@@ -1,3 +1,8 @@
+---
+layout: template
+---
+
+# Using Incecticides
 
 
 {% for item in site.data.incecticides %}
