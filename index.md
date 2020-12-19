@@ -10,3 +10,4 @@ My experience with and perceptions of organic farming
 -  [What is Organic Farming](topics/intro.md)
 -  [Benefits](topics/benefits.md)
 -  [Methods](topics/methods.md)
+-  [Incecticides](topics/incecticides.md)
