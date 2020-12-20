@@ -1,3 +1,7 @@
+---
+layout: template
+---
+
 # Methods in Organic Farming
 
 ## Crop diversity
