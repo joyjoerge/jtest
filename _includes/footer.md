@@ -1,1 +1,1 @@
-&copy; { site.name }
+&copy; {{ site.name }}
